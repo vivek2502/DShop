@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# DShop - A decentralized E-commerce website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Blockchain-based e-commerce application Dshop. Using this application.
 
-## Available Scripts
+##Tech Stack used:
 
-In the project directory, you can run:
+FrontEnd : Vanilla JS, React JS, Web3 Libraries
 
-### `npm start`
+Backend : Truffle Framework, Solidity Language, Ethereum blockchain
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tools : VS Code
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/42957988/180636816-c09c7577-a0d8-4e38-954c-b5acefdf2dd9.png)
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/42957988/180636679-a8715ce9-1ea6-45cd-adad-4b16be988dbd.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/42957988/180636685-07717764-c2bf-467d-a393-dc050b575524.png)
 
-### `npm run build`
+![image](https://user-images.githubusercontent.com/42957988/180636686-5894a126-f4da-42a3-bde1-641602bb947c.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![image](https://user-images.githubusercontent.com/42957988/180636691-761832df-cfb4-4683-b9f6-dc0d5be50f2f.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/42957988/180636825-c1d34149-2b98-4fa9-bc4e-2ef5c7889beb.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##To run in your local system. Please set up you environment
 
-### `npm run eject`
+Node.js https://nodejs.org/en/
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Code Editor (VS Code recommended).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+$ git clone https://github.com/vivek2502/Svasth.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+$ cd Dshop
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+$ npm i
 
-## Learn More
+& npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
